@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LiquidRazor/.github/main/LiquidRazorBanner.png" alt="LiquidRazor banner" />
+</p>
+
 # LiquidRazor Organization
 
 Welcome to **LiquidRazor** — a home for lightweight, developer-friendly PHP tools, bundles, and libraries.  
