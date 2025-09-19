@@ -36,7 +36,7 @@ branches:
               require_code_owner_reviews: true   # flip to true if you use CODEOWNERS
           required_status_checks:
               strict: true
-              contexts: []   # OPTIONAL: list required checks exactly as they appear in Checks UI
+              # contexts: []   # OPTIONAL: list required checks exactly as they appear in Checks UI
               # e.g. ["ci / build", "ci / test", "lint"]
           restrictions: null
           allow_deletions: false
@@ -54,7 +54,7 @@ branches:
               dismiss_stale_reviews: true
           required_status_checks:
               strict: false
-              contexts: []   # you can require fewer or no checks on dev
+              # contexts: []   # you can require fewer or no checks on dev
           restrictions: null
           allow_deletions: false
           allow_force_pushes: false
